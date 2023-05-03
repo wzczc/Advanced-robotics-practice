@@ -1,0 +1,15 @@
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\queue.c
+encodeer\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+encodeer\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+encodeer\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+encodeer\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+encodeer\queue.o: ../Core/Inc/FreeRTOSConfig.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+encodeer\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\queue.h

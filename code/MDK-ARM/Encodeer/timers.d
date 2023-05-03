@@ -1,0 +1,15 @@
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\timers.c
+encodeer\timers.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+encodeer\timers.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+encodeer\timers.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+encodeer\timers.o: ../Core/Inc/FreeRTOSConfig.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\queue.h
+encodeer\timers.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\timers.h

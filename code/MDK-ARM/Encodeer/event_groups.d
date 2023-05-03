@@ -1,0 +1,15 @@
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c
+encodeer\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+encodeer\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+encodeer\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+encodeer\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\timers.h
+encodeer\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\event_groups.h

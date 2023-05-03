@@ -1,0 +1,12 @@
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+encodeer\port.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+encodeer\port.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+encodeer\port.o: ../Core/Inc/FreeRTOSConfig.h
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+encodeer\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
